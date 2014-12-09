@@ -1,0 +1,49 @@
+#map-container{
+  height:500px;
+  width:85%;
+  overflow:hidden;  
+  display: block; 
+  margin: 0 auto; 
+ }
+#index-container{
+  height:500px;
+  width:70%;
+  overflow:hidden;  
+  display: block; 
+  margin: 0 auto; 
+ }
+#map {
+  height: 400px; 
+  width: auto; 
+  display: block;
+  margin: 0 auto;
+  border: 1px solid;
+}
+#routeDistance{
+  padding-left: 10px;
+  text-align: center;
+}
+#clearMapBtn{
+  background-color: black;
+  float: left;
+  width:50%;
+  overflow:hidden;    
+}
+#clearLastBtn{
+  background-color: black;
+  float: right;
+  width:50%;
+  overflow:hidden;    
+}
+.hero-unit{
+  margin-top:50px;
+  padding: 5px;
+}
+.btn-primary{
+  background-color: black;
+  width: 100%;
+  border: 1px outset blue;
+}
+li {
+  list-style-type: none;
+}

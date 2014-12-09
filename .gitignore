@@ -1,0 +1,5 @@
+phpmyadmin/
+sshKeys/
+AWS_config.ini
+azure_config.ini
+optional
